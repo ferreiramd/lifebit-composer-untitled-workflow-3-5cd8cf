@@ -19,3 +19,4 @@ The present workflow is composed by the following unique components (Note that s
 ## Inputs
 
 - `--fastqc_1.fastq`: FastQ files, which can be compressed or uncompressed
+- `--fastqc_2.fastq`: FastQ files, which can be compressed or uncompressed
